@@ -1,0 +1,5 @@
+file = open("student.txt", "w")
+file.write("Python for Data Science\n")
+file.write("GTU Laboratory Manual")
+file.close()
+print("Data Written Successfully")

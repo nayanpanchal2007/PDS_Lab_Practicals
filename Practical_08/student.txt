@@ -1,0 +1,3 @@
+Python for Data Science
+GTU Laboratory Manual
+Department of Computer Engineering
